@@ -4,27 +4,71 @@
 
 <div align="center">
 
-# Erin Sur 👋
+# ‧₊˚✩ Welcome to My Little Corner of the Internet ✩˚₊‧
 
-Computer Science Student | AI & Security Focus | Automation Enthusiast
+### *(✿◠‿◠) Hi, I'm Erin!*
 
 </div>
 
 ---
 
-### <p align="center">About Me</p>
+### <p align="center">✧ About Me ✧</p>
 
 <p align="center">
-  I'm a Computer Science student passionate about the intersection of <strong>Artificial Intelligence</strong> and <strong>Cybersecurity</strong>. <br>
-  I enjoy building automated solutions and securing modern applications. My goal is to leverage technology to solve complex security challenges proactively.
+  I'm a Computer Science student who loves exploring the world of <strong>Artificial Intelligence ♡ Cybersecurity</strong>. <br>
+  When I'm not studying, I'm usually building fun projects, learning new things, and thinking about how technology can solve big challenges in a safe and creative way!
+  <br><br>
+  Feel free to look around! ✨
 </p>
 
 ---
 
-### <p align="center">Languages and Tools</p>
+### <p align="center">🌱 Now Learning & Working On 🌱</p>
+
+<ul>
+  <li>🔭 I’m currently working on a personal project involving [mention a specific technology, e.g., natural language processing].</li>
+  <li>🌱 I’m learning more about [mention a topic, e.g., secure coding practices for AI models].</li>
+  <li>👯 I’m looking to collaborate on open-source projects related to cybersecurity.</li>
+  <li>🤔 I’m looking for help with [mention something you're stuck on, this is relatable!].</li>
+</ul>
+
+---
+
+### <p align="center">✨ My Goals for the Future ✨</p>
+<ul>
+  <li>🚀 To land an internship where I can contribute to the AI/Security space.</li>
+  <li>🎓 To become proficient in advanced Python libraries like TensorFlow or PyTorch.</li>
+  <li>💖 To contribute to an open-source tool that makes technology safer for everyone.</li>
+</ul>
+
+---
+
+### <p align="center">Tools & Technologies I Love ♡</p>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"></a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://trivy.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Trivy-202A56?style=flat-square&logo=trivy&logoColor=00A9E5" alt="Trivy"></a>
+</p>
+
+---
+
+### <p align="center">My Coding Journey 📈</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erinsur&show_icons=true&theme=buefy" alt="Erin's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinsur&layout=compact&theme=buefy" alt="Erin's Top Languages">
+</p>
+
+---
+
+### <p align="center">Let's be friends! 💖</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/erin-sur" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[YOUR_EMAIL_HERE]" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
