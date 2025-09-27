@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="[LINK_TO_YOUR_BANNER_IMAGE_HERE]" alt="Erin Sur Banner"/>
-</p>
-
 <div align="center">
 
 # ‧₊˚✩ Welcome to My Little Corner of the Internet ✩˚₊‧
 
-### *(✿◠‿◠) Hi, I'm Erin!*
+### Hi, I'm Erin!*
 
 </div>
 
@@ -26,10 +22,9 @@
 ### <p align="center">🌱 Now Learning & Working On 🌱</p>
 
 <ul>
-  <li>🔭 I’m currently working on a personal project involving [mention a specific technology, e.g., natural language processing].</li>
-  <li>🌱 I’m learning more about [mention a topic, e.g., secure coding practices for AI models].</li>
+  <li>🔭 I’m currently working on a personal project involving augmenting and training a model</li>
+  <li>🌱 I’m learning more about security+, llm.</li>
   <li>👯 I’m looking to collaborate on open-source projects related to cybersecurity.</li>
-  <li>🤔 I’m looking for help with [mention something you're stuck on, this is relatable!].</li>
 </ul>
 
 ---
@@ -37,8 +32,8 @@
 ### <p align="center">✨ My Goals for the Future ✨</p>
 <ul>
   <li>🚀 To land an internship where I can contribute to the AI/Security space.</li>
-  <li>🎓 To become proficient in advanced Python libraries like TensorFlow or PyTorch.</li>
-  <li>💖 To contribute to an open-source tool that makes technology safer for everyone.</li>
+  <li>🎓 To become proficient in utilizing AI for cybersecurity.</li>
+  <li>💖 To make a tool that is groundbreaking.</li>
 </ul>
 
 ---
@@ -70,5 +65,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/erin-sur" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[YOUR_EMAIL_HERE]" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  
 </p>
