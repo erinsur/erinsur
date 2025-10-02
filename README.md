@@ -8,32 +8,12 @@
 
 ---
 
-### <p align="center">✧ About Me ✧</p>
-
-<p align="center">
-  I'm a Computer Science student who loves exploring the world of <strong>Artificial Intelligence ♡ Cybersecurity</strong>. <br>
-  When I'm not studying, I'm usually building fun projects, learning new things, and thinking about how technology can solve big challenges in a safe and creative way!
-  <br><br>
-  Feel free to look around! ✨
-</p>
-
----
-
 ### <p align="center">🌱 Now Learning & Working On 🌱</p>
 
 <ul>
   <li>🔭 I’m currently working on a personal project involving augmenting and training a model</li>
   <li>🌱 I’m learning more about security+, llm.</li>
   <li>👯 I’m looking to collaborate on open-source projects related to cybersecurity.</li>
-</ul>
-
----
-
-### <p align="center">✨ My Goals for the Future ✨</p>
-<ul>
-  <li>🚀 To land an internship where I can contribute to the AI/Security space.</li>
-  <li>🎓 To become proficient in utilizing AI for cybersecurity.</li>
-  <li>💖 To make a tool that is groundbreaking.</li>
 </ul>
 
 ---
@@ -61,7 +41,7 @@
 
 ---
 
-### <p align="center">Let's be friends! 💖</p>
+### <p align="center">Let's be friends! </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/erin-sur" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
