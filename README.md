@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 # ‧₊˚✩ Hi, I'm Erin! Welcome to My Little Corner of the Internet ✩˚₊‧
 
-#### Computer Science major at CSUS. I am a driven CS gal at the intersection of software engineering, machine learning, and cybersecurity. Currently, I am an incoming SWE intern at HPE and an AI Fellow in the Break Through Tech Program at Cornell. 
+#### As a Computer Science major at CSUS, I am a driven gal at the intersection of software engineering, machine learning, and cybersecurity. Currently, I am an incoming SWE intern at HPE and an AI Fellow in the Break Through Tech Program at Cornell. 
 
 </div>
 
