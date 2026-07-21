@@ -2,7 +2,8 @@
 
 # ‧₊˚✩ Welcome to My Little Corner of the Internet ✩˚₊‧
 
-### Hi, I'm Erin!\*
+### Hi, I'm Erin!
+#### shshfsh
 
 </div>
 
