@@ -18,12 +18,12 @@
 
 # 
 
-### Featured Project: Automated Conflict of Interest Checker
-#### Led a team in building an application for the California Fair Political Practices Commission (FPPC) to automatically detect potential conflicts  of interest in local government. 
-
-#### Our team architected a two-pipeline system using Python, Selenium, and OpenAI. Pipeline 1 scraped city council agendas, extracted text from PDFs,  and parsed Form 700 financial disclosures. Pipeline 2 fed the cleaned data into an OpenAI LLM-based matching engine. 
-
-#### Grew into the Scrum Master role by running sprints, coordinating client communication, and driving the project from proof-of-concept to a production-ready application.
+### Featured Project: Airbnb Superhost ML Classifier
+#### This project from Break Through Tech demonstrates a simple end-to-end machine learning workflow for building and selecting a Logistic Regression model for binary classification. The notebook walks through data preprocessing, model training, hyperparameter tuning, and model serialization to identify the best-performing model configuration.
+#### - Prepared and preprocessed data for machine learning
+#### - Train a Logistic Regression classifier
+#### - Compare model configurations and select the optimal model
+#### - Save the trained model using Pickle for future predictions
 
 ---
 <div align="center">
