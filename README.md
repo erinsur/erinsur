@@ -18,10 +18,10 @@
 
 # 
 
-#### Featured Project: Sentiment Analysis for American Express
-###### Led a team in building an application for the California Fair Political Practices Commission (FPPC) to automatically detect potential conflicts ###### of interest in local government. 
+#### Featured Project: Automated Conflict of Interest Checker
+###### Led a team in building an application for the California Fair Political Practices Commission (FPPC) to automatically detect potential conflicts  of interest in local government. 
 
-###### Our team architected a two-pipeline system using Python, Selenium, and OpenAI. Pipeline 1 scraped city council agendas, extracted text from PDFs, ###### and parsed Form 700 financial disclosures. Pipeline 2 fed the cleaned data into an OpenAI LLM-based matching engine. 
+###### Our team architected a two-pipeline system using Python, Selenium, and OpenAI. Pipeline 1 scraped city council agendas, extracted text from PDFs,  and parsed Form 700 financial disclosures. Pipeline 2 fed the cleaned data into an OpenAI LLM-based matching engine. 
 
 ###### Grew into the Scrum Master role by running sprints, coordinating client communication, and driving the project from proof-of-concept to a production-ready application.
 
